@@ -1,0 +1,9 @@
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\bin\Debug\Queens.exe.config
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\bin\Debug\Queens.exe
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\bin\Debug\Queens.pdb
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.csprojResolveAssemblyReference.cache
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.Properties.Resources.resources
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.csproj.GenerateResource.Cache
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.exe
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.pdb
+c:\users\deven\documents\visual studio 2013\Projects\Queens\Queens\obj\Debug\Queens.Form1.resources
